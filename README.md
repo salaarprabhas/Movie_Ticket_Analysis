@@ -1,4 +1,4 @@
-# Movie Ticket Sales Analysis
+# Movie Ticket Sales Analysis Using Timeseries
 
 This repository contains a comprehensive data analysis project on **movie ticket sales**, aiming to uncover patterns, trends, and actionable business insights using Python-based data analytics techniques.
 
