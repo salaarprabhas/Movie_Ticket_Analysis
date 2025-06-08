@@ -21,7 +21,6 @@ To analyze movie ticket sales data and answer business-critical questions such a
   - matplotlib, seaborn
   - plotly (if interactive charts are included)
 - **Jupyter Notebook**
-- *(Optional: Power BI/Tableau if used externally)*
 
 ---
 
@@ -35,7 +34,6 @@ To analyze movie ticket sales data and answer business-critical questions such a
 - 🏢 **Theater Trends:** Some theaters consistently underperformed—potential for optimization.
 - 💸 **Pricing Sensitivity:** Moderate-priced tickets had better sales across all genres.
 
-> _Note: Replace or refine these insights with actual findings from your notebook._
 
 ---
 
